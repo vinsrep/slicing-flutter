@@ -1,16 +1,8 @@
 # slicing_mobile
 
-A new Flutter project.
+"Titans Crypto" Productive Class Flutter Assignment
 
-## Getting Started
+## Snapshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/1c920986-7f2e-4982-b039-4c5c9185fd31) ![image](https://github.com/user-attachments/assets/29c13304-4d01-475f-a3b1-2e277119ac5a)
+![image](https://github.com/user-attachments/assets/a43c2deb-abd4-4bb2-9cc5-66f2797496c1) ![image](https://github.com/user-attachments/assets/e53d52f8-a48c-4e82-b7e1-ce022ea6d9d7)
